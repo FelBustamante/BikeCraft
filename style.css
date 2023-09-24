@@ -176,7 +176,7 @@ p {
   }
   .introducao {
     text-align: left;
-    justify-items: left;
+    justify-items: center;
   }
   body {
     gap: 30px;
